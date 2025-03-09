@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "country": "Bangladesh",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+    "role": "All-rounder",
+    "rating": 928,
+    "batting_style": "Left-hand bat",
+    "price": 1850000
+  },
+  {
+    "id": 2,
+    "name": "Virat Kohli",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/164.png",
+    "country": "India",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "role": "Batsman",
+    "rating": 923,
+    "batting_style": "Right-hand bat",
+    "price": 2000000
+  },
+  {
+    "id": 3,
+    "name": "Joe Root",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/193.png",
+    "country": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+    "role": "Batsman",
+    "rating": 880,
+    "batting_style": "Right-hand bat",
+    "price": 1800000
+  },
+  {
+    "id": 4,
+    "name": "Steve Smith",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/271.png",
+    "country": "Australia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+    "role": "Batsman",
+    "rating": 890,
+    "batting_style": "Right-hand bat",
+    "price": 1900000
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/225.png",
+    "country": "New Zealand",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "role": "Batsman",
+    "rating": 870,
+    "batting_style": "Right-hand bat",
+    "price": 1850000
+  },
+  {
+    "id": 6,
+    "name": "Babar Azam",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/187.png",
+    "country": "Pakistan",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "role": "Batsman",
+    "rating": 892,
+    "batting_style": "Right-hand bat",
+    "price": 1950000
+  },
+  {
+    "id": 7,
+    "name": "Jasprit Bumrah",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/1124.png",
+    "country": "India",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "role": "Bowler",
+    "rating": 835,
+    "batting_style": "Right-hand bat",
+    "price": 1700000
+  },
+  {
+    "id": 8,
+    "name": "Pat Cummins",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/488.png",
+    "country": "Australia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+    "role": "Bowler",
+    "rating": 860,
+    "batting_style": "Right-hand bat",
+    "price": 1750000
+  },
+  {
+    "id": 9,
+    "name": "Rashid Khan",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/2883.png",
+    "country": "Afghanistan",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+    "role": "All-rounder",
+    "rating": 880,
+    "batting_style": "Right-hand bat",
+    "price": 1800000
+  },
+  {
+    "id": 10,
+    "name": "Ben Stokes",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/190.png",
+    "country": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+    "role": "All-rounder",
+    "rating": 890,
+    "batting_style": "Left-hand bat",
+    "price": 2000000
+  },
+  {
+    "id": 11,
+    "name": "Quinton de Kock",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/251.png",
+    "country": "South Africa",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "role": "Wicketkeeper Batsman",
+    "rating": 860,
+    "batting_style": "Left-hand bat",
+    "price": 1900000
+  },
+  {
+    "id": 12,
+    "name": "David Warner",
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/170.png",
+    "country": "Australia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+    "role": "Batsman",
+    "rating": 855,
+    "batting_style": "Left-hand bat",
+    "price": 1750000
+  }
+]
