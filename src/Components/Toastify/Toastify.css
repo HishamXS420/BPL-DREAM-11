@@ -1,0 +1,14 @@
+.toast-container {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+  }
+  
+  .toast-body {
+    background-color: #444; /* Body background color */
+    color: #fff; /* Body text color */
+  }
+  
+  .toast-progress {
+    background-color: #ef0505;
+     /* Progress bar color */
+  }

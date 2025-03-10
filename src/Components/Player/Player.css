@@ -1,0 +1,9 @@
+.card-info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:35px;
+    justify-content: center; /* Center the grid items horizontally */
+    align-content: center; 
+    
+ 
+}

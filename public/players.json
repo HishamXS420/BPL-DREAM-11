@@ -2,133 +2,133 @@
   {
     "id": 1,
     "name": "Shakib Al Hasan",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "picture": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTCbjTIedmQdn-KwXhJI2n1cywINB54Nd0gRHJoxd1UCh8m2NWk28NBvuUSuAJEk10SO9Nee0vwotSGiLQ",
     "country": "Bangladesh",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
     "role": "All-rounder",
     "rating": 928,
     "batting_style": "Left-hand bat",
-    "price": 1850000
+    "price": 185000
   },
   {
     "id": 2,
     "name": "Virat Kohli",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/164.png",
+    "picture": "https://live-production.wcms.abc-cdn.net.au/ca408f501dcedd5607cca73ff241de29?impolicy=wcms_crop_resize&cropH=1628&cropW=2893&xPos=107&yPos=365&width=862&height=485",
     "country": "India",
     "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
     "role": "Batsman",
     "rating": 923,
     "batting_style": "Right-hand bat",
-    "price": 2000000
+    "price": 200000
   },
   {
     "id": 3,
     "name": "Joe Root",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/193.png",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFULW8FpuHUUw0Jphpegp2D2tOWELf5Cw2A&s",
     "country": "England",
     "flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
     "role": "Batsman",
     "rating": 880,
     "batting_style": "Right-hand bat",
-    "price": 1800000
+    "price": 180000
   },
   {
     "id": 4,
     "name": "Steve Smith",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/271.png",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVvgIxoJNK-UGI4yjsvYYVRyjgivG2gCTQA&s",
     "country": "Australia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
     "role": "Batsman",
     "rating": 890,
     "batting_style": "Right-hand bat",
-    "price": 1900000
+    "price": 190000
   },
   {
     "id": 5,
     "name": "Kane Williamson",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/225.png",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY5qkOQ9SA2DSAhRKvM_1RNMHhZUBJONuDzw&s",
     "country": "New Zealand",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
     "role": "Batsman",
     "rating": 870,
     "batting_style": "Right-hand bat",
-    "price": 1850000
+    "price": 185000
   },
   {
     "id": 6,
     "name": "Babar Azam",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/187.png",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sQ1egDcQ4WUzGGME2MbW-pRtCfQRcjGdSQ&s",
     "country": "Pakistan",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
     "role": "Batsman",
     "rating": 892,
     "batting_style": "Right-hand bat",
-    "price": 1950000
+    "price": 195000
   },
   {
     "id": 7,
     "name": "Jasprit Bumrah",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/1124.png",
+    "picture": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/370200/370250.jpg",
     "country": "India",
     "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
     "role": "Bowler",
     "rating": 835,
     "batting_style": "Right-hand bat",
-    "price": 1700000
+    "price": 170000
   },
   {
     "id": 8,
     "name": "Pat Cummins",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/488.png",
+    "picture": "https://content.api.news/v3/images/bin/a41feb45057398f5dc6245a2ccf55a6d",
     "country": "Australia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
     "role": "Bowler",
     "rating": 860,
     "batting_style": "Right-hand bat",
-    "price": 1750000
+    "price": 175000
   },
   {
     "id": 9,
     "name": "Rashid Khan",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/2883.png",
+    "picture": "https://api.bdcrictime.com/rashid-2-09_01_2025.jpg",
     "country": "Afghanistan",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+    "flag": "https://www.flagsandflagpoles.co.uk/cdn/shop/products/afghanistan_800x.png?v=1528212202",
     "role": "All-rounder",
     "rating": 880,
     "batting_style": "Right-hand bat",
-    "price": 1800000
+    "price": 180000
   },
   {
     "id": 10,
     "name": "Ben Stokes",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/190.png",
+    "picture": "https://c.ndtvimg.com/2023-11/87845ka8_ben-stokes-afp_625x300_08_November_23.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605",
     "country": "England",
     "flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
     "role": "All-rounder",
     "rating": 890,
     "batting_style": "Left-hand bat",
-    "price": 2000000
+    "price": 200000
   },
   {
     "id": 11,
     "name": "Quinton de Kock",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/251.png",
+    "picture": "https://resize.indiatvnews.com/en/resize/newbucket/355_-/2024/06/78423-1719199205.webp",
     "country": "South Africa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
     "role": "Wicketkeeper Batsman",
     "rating": 860,
     "batting_style": "Left-hand bat",
-    "price": 1900000
+    "price": 190000
   },
   {
     "id": 12,
     "name": "David Warner",
-    "picture": "https://resources.pulse.icc-cricket.com/players/284/170.png",
+    "picture": "https://api.bdcrictime.com/david-warner-australia-world-cup-ap-2023-11-a4c81919f16fcf02a5fc53c4c0ec88be-08_07_2024.jpg",
     "country": "Australia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
     "role": "Batsman",
     "rating": 855,
     "batting_style": "Left-hand bat",
-    "price": 1750000
+    "price": 175000
   }
 ]
