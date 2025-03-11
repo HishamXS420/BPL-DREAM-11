@@ -18,7 +18,7 @@ const Available = ({handleSelectedPlayers, setShowAvailable,showSelected}) => {
 
     return (
         <div className="absolute mt-24">
-            <div className="flex flex-row justify-between">
+            <div className="flex flex-row justify-between items-center">
                 <div>
                 <h1 className="text-3xl font-bold">Available Players</h1>
                 </div>
@@ -27,13 +27,13 @@ const Available = ({handleSelectedPlayers, setShowAvailable,showSelected}) => {
                     <button onClickCapture={() => setShowAvailable(false)} onClick={handleSelectedPlayers} className="font-bold rounded-r-2xl bg-slate-200 text-black p-4 ">{`Selected (${showSelected.length})`}</button>
                 </div>
             </div>
-            
+            <hr className="my-4 text-gray-300"/>
             <div className="card-info flex items-center justify-between mt-4 mb-4">
 
                 {
                     playerCards.map(player => <Player 
                         handleSelectedPlayers={handleSelectedPlayers} 
-                        key={player.id} 
+                        key={player.idx} 
                         player={player}></Player>)
                 }
             </div>

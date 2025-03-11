@@ -11,12 +11,12 @@ const Header = ({ credit }) => {
         <img src={profile} alt="" />
       </div>
       <div className="flex gap-12 items-center">
-        <h1>Home</h1>
-        <h1>Fixture</h1>
-        <h1>Teams</h1>
-        <h1>Schedules</h1>
+        <h1 className="hover:text-cyan-600">Teams</h1>
+        <h1 className="hover:text-cyan-600">Home</h1>
+        <h1 className="hover:text-cyan-600">Schedules</h1>
+        <h1 className="hover:text-cyan-600">Fixture</h1>
         <div
-          className="py-2 flex w-30 border rounded-xl font-semibold items-center gap-2 "
+          className="py-2 flex w-30 border rounded-xl font-semibold items-center gap-2  hover:bg-yellow-300 hover:text-amber-800 hover:font-bold"
           style={credit === 0 ? {} : credit > 100000 ? { width: `${creditWidth2}px` } : { width: `${creditWidth}px` }}
         >
           <h1 className="ml-3 font-bold">
